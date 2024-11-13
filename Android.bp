@@ -25519,14 +25519,6 @@ cc_prebuilt_binary {
     soc_specific: true,
 }
 
-sh_binary {
-    name: "vendor_modprobe",
-    owner: "nothing",
-    src: "proprietary/vendor/bin/vendor_modprobe.sh",
-    filename: "vendor_modprobe.sh",
-    soc_specific: true,
-}
-
 cc_prebuilt_binary {
     name: "vppservice",
     owner: "nothing",
