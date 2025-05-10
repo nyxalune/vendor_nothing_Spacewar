@@ -668,6 +668,9 @@ PRODUCT_PACKAGES += \
     libwfduibcsrc_proprietary \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libasphere \
     libdiraceffect_NT \
     libshoebox \
