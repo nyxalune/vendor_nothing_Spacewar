@@ -1166,7 +1166,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    PowerOffAlarm \
     QtiTelephonyService \
     QtiTelephony \
     WfdService \
